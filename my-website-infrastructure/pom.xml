@@ -35,6 +35,10 @@
             <groupId>com.luo</groupId>
             <artifactId>my-website-domain</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.luo</groupId>
+            <artifactId>my-website-type</artifactId>
+        </dependency>
     </dependencies>
 
     <properties>

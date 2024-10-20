@@ -1,5 +1,5 @@
 spring:
-  application:
+  config:
     name: my-website-app
   profiles:
     active: dev

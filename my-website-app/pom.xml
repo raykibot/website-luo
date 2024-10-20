@@ -47,6 +47,10 @@
             <groupId>com.luo</groupId>
             <artifactId>my-website-infrastructure</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.luo</groupId>
+            <artifactId>my-website-trigger</artifactId>
+        </dependency>
     </dependencies>
 
     <properties>
